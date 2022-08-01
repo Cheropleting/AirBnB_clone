@@ -3,8 +3,8 @@
 ## 0x00. AirBnB clone - The console
 
 ```
-For Holberton School.
-Cohort 16.
+For ALX School
+Cohort 5.
 ```
    By Guillaume
  Weight: 5
