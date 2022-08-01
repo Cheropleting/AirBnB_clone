@@ -8,9 +8,9 @@ Cohort 16.
 ```
    By Guillaume
  Weight: 5
- Project to be done in teams of 2 people (your team: Daniel Rivera, Jorge Orlando Calambás Conda
- Ongoing project - started 02-28-2022, must end by 03-07-2022 (in 2 days) - you're done with 0% of tasks.
- Checker will be released at 03-05-2022 06:00 AM
+ Project to be done in teams of 2 people (your team: Batya Tonny, 
+ Ongoing project - started 01-08-2022, must end by 07-08-2022 (in 7 days) - you're done with 0% of tasks.
+ Checker will be released at 06-08-2022 12:00 PM
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
 		  ```
