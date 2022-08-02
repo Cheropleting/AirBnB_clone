@@ -9,6 +9,6 @@ class Amenity(BaseModel):
 
     name = ""
 
-    def __init__(self, *args, **kwars):
+    def __init__(self, *args, **kwargs):
         """constructor class"""
-        super().__init__(*args, **kwars)
+        super().__init__(*args, **kwargs)

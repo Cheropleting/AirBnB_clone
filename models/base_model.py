@@ -53,7 +53,7 @@ class BaseModel:
 
     def save(self):
         """save method update the date each time the
-           instace is modify
+           instance is modify
         """
         self.updated_at = datetime.now()
         models.storage.save()
