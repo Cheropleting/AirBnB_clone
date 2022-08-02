@@ -1,23 +1,19 @@
-# AirBnB clone
-
-## 0x00. AirBnB clone - The console
-
-```
-For ALX School
-Cohort 5.
-```
-   By Guillaume
+0x00. AirBnB clone - The console
+Group project
+Python
+OOP
+ By: Guillaume
  Weight: 5
- Project to be done in teams of 2 people (your team: Batya Tonny, 
- Ongoing project - started 01-08-2022, must end by 07-08-2022 (in 7 days) - you're done with 0% of tasks.
- Checker will be released at 06-08-2022 12:00 PM
+ Project to be done in teams of 2 people (your team: Batya Tonny, Aribisala Rotimi)
+ Project will start Aug 1, 2022 6:00 AM, must end by Aug 8, 2022 6:00 AM
+ will be released at Aug 6, 2022 12:00 PM
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
-		  ```
-![image](https://user-images.githubusercontent.com/81341089/156898379-8e6dfffc-b217-4b41-9c69-fefc53af47c9.png)
+Concepts
+For this project, we expect you to look at these concepts:
 
-## Description
-
+Python packages
+AirBnB clone
 Airbnb is a community market that shares and exchanges goods and services between individuals through digital platforms so that a user can find accommodation in another person's home and not in a hotel, from common apartments to tree houses, igloos, geodomes, mills etc.
 
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
