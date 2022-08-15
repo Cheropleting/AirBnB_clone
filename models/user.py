@@ -1,10 +1,22 @@
 #!/usr/bin/python3
-"""Module for User class."""
+""" Use this module for instance users objects
+
+    Classes:
+        User
+"""
 from models.base_model import BaseModel
 
 
 class User(BaseModel):
-    """Class representing a User."""
+    """ User Class definition that inherits from BaseModel
+
+        Attributes
+        ----------
+        email : str
+        password : str
+        first_name : str
+        last_name : str
+    """
     email = ""
     password = ""
     first_name = ""

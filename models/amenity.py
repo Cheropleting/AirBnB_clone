@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""Module for Amenity class."""
-
+""" Amenity Class """
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Class representing a Amenity."""
+    """ Public class attributes """
     name = ""
